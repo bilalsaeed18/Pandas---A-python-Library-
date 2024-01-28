@@ -1,2 +1,12 @@
 # Pandas - A Python Library
-Complate overview of Pandas in python
+Complete overview of Pandas in Python
+
+## Topics Covered:
+
+Data Visualization in Panda
+Filtering and Ordering Data
+Group by and Aggregate
+Indexing
+Merger and Joining
+Reading Files - Pandas
+
